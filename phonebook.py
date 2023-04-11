@@ -74,8 +74,7 @@ def ui():
     elif user_input == '4':
         print_data()
     elif user_input == '5':
-        #change_contact()
-        change()
+        change_contact()        
     elif user_input == '6':
         remove_contact()       
     elif user_input != '7':    
